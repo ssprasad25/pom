@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.airhacks</groupId>
     <artifactId>javaee7-essentials-pom</artifactId>
+         
     <version>7.0</version>
     <packaging>war</packaging>
     <dependencies>
